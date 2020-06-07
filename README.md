@@ -1,0 +1,1 @@
+This project is intended to deconstruct the goolge homepage and rebuild it using what I have learned so far via The Odin Projcet.
